@@ -1,0 +1,4 @@
+*.class
+*.ml
+target
+tajne.txt
