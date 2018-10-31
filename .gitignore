@@ -1,4 +1,5 @@
 *.class
 *.ml
+.idea
 target
 tajne.txt
